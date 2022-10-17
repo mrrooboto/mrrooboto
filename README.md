@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @mrrooboto
-- 👀 I’m beginner in coding and this is my fullfillment in life..
-- 🌱 I’m currently learning Python and i hope i will be able to learn most of the languages and understand them because it's fun for me :).
-- 💞️ I’m would really like to find a person to help me with problems if possible i'd be really greatful.
-- 👋 I really want to be perfect in coding and also maybe in few years when ill be at least 50% good at it, i have this dream of being ethical hacker.
+- Hi, i'm mrrobotto and i cane here to learn GIT and programming stuff.
+- Also i'm a Java developer in Junior stage of progress.
+- I would really like to collab on some projects with people.
 - 📫 How to reach me ... flavourlessbenzo@gmail.com
 
 <!---
