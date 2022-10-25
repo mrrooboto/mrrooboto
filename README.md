@@ -1,4 +1,4 @@
-- Hi, i'm mrrobotto and i cane here to learn GIT and programming stuff.
+- Hi, i'm mrrobotto and i came here to learn GIT and programming stuff.
 - Also i'm a Java developer in Junior stage of progress.
 - I would really like to collab on some projects with people.
 - 📫 How to reach me ... flavourlessbenzo@gmail.com
